@@ -1,10 +1,11 @@
-# Open Source Spacemouse with Keys
-Repository for the space mouse based on four joysticks with an addition for keys (not jet in the picture)
+# Open Source 6VDOF (Variable Degrees of Freedom) Mouse with Wheel and Keys
+Repository for the Open Source, 3D Mouse based on four joysticks, encoder and keys. The code is a fork from @Andun_HH project, which at the same time comes from a long list of contributors including Teaching Tech. The physical desigh is however my own and it is a WIP (Work In Progress) at the moment.
 
-![overview](https://github.com/AndunHH/spacemouse/assets/76771247/562b9763-a6fa-47f1-af30-2dd4bbc053b8)
+More pictures to come (once I figure out how to upload them to GitHub) 
+![overview](-)
 
 This repository for the necessary arduino sources is mainly based on 
-the work by [TeachingTech](https://www.printables.com/de/model/864950-open-source-spacemouse-space-mushroom-remix) and the additional code for keys by [LivingTheDream](https://www.printables.com/de/model/883967-tt-spacemouse-v2-lid-with-mounting-for-4-mx-switch) and is intended as basis for further development, because proper source code management is needed.
+the work by [TeachingTech](https://www.printables.com/de/model/864950-open-source-spacemouse-space-mushroom-remix) and the additional code for keys by [LivingTheDream](https://www.printables.com/de/model/883967-tt-spacemouse-v2-lid-with-mounting-for-4-mx-switch) and code optimization by @Andun_HH.
 
 # Getting Started
 This is a short overview, what needs to be done to get this project running. The paragraphs below will be extended in the future with links or further text.
